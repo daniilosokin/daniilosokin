@@ -19,14 +19,6 @@
 
 - [Курсовая работа](https://github.com/eeeeagle/ADS_CP)
 
-### Вычислительная математика
-
-- [Лабораторная работа №1](https://github.com/eeeeagle/CM_1)
-- [Лабораторная работа №2](https://github.com/eeeeagle/CM_2)
-- [Лабораторная работа №3](https://github.com/eeeeagle/CM_3)
-- [Лабораторная работа №4](https://github.com/eeeeagle/CM_4)
-- [Лабораторная работа №5](https://github.com/eeeeagle/CM_5)
-
 ### Базы данных
 
 - [Лабораторная работа №1](https://github.com/eeeeagle/DB_1)
@@ -36,15 +28,13 @@
 - [Лабораторная работа №5](https://github.com/eeeeagle/DB_5)
 - [Лабораторная работа №6](https://github.com/eeeeagle/DB_6)
 
-### Основы Информационной Безопасности
+### Вычислительная математика
 
-- [Лабораторная работа №1](https://github.com/eeeeagle/FIS_1)
-- [Лабораторная работа №3](https://github.com/eeeeagle/FIS_3)
-- [Лабораторная работа №4](https://github.com/eeeeagle/FIS_4)
-
-### Промышленное программирование
-
-- [Лабораторная работа №1-4](https://github.com/eeeeagle/IP)
+- [Лабораторная работа №1](https://github.com/eeeeagle/CM_1)
+- [Лабораторная работа №2](https://github.com/eeeeagle/CM_2)
+- [Лабораторная работа №3](https://github.com/eeeeagle/CM_3)
+- [Лабораторная работа №4](https://github.com/eeeeagle/CM_4)
+- [Лабораторная работа №5](https://github.com/eeeeagle/CM_5)
 
 ### Низкоуровневое программирование
 
@@ -59,6 +49,36 @@
 - [Лабораторная работа №2](https://github.com/eeeeagle/OS_2)
 - [Лабораторная работа №3](https://github.com/eeeeagle/OS_3)
 - [Лабораторная работа №4](https://github.com/eeeeagle/OS_4)
+
+### Основы Информационной Безопасности
+
+- [Лабораторная работа №1](https://github.com/eeeeagle/FIS_1)
+- [Лабораторная работа №3](https://github.com/eeeeagle/FIS_3)
+- [Лабораторная работа №4](https://github.com/eeeeagle/FIS_4)
+
+### Паралелльное программирование
+
+- [Лабораторная работа №1](https://github.com/eeeeagle/PP_1)
+- [Лабораторная работа №2](https://github.com/eeeeagle/PP_2)
+- [Лабораторная работа №3](https://github.com/eeeeagle/PP_3)
+- [Лабораторная работа №4](https://github.com/eeeeagle/PP_4)
+
+### Промышленное программирование
+
+- [Лабораторная работа №1-4](https://github.com/eeeeagle/IP)
+
+### Системное программирование
+
+#### Семестр 1
+
+- [Лабораторная работа №1](https://github.com/eeeeagle/SP_1)
+- [Лабораторная работа №2](https://github.com/eeeeagle/SP_2)
+- [Лабораторная работа №3](https://github.com/eeeeagle/SP_3)
+- [Лабораторная работа №4](https://github.com/eeeeagle/SP_4)
+
+#### Семестр 2
+
+- [Курсовая работа](https://github.com/eeeeagle/SP_CP)
 
 ### Языки программирования
 
@@ -75,26 +95,6 @@
 - [Лабораторная работа №2](https://github.com/eeeeagle/PL_2.2)
 - [Лабораторная работа №3](https://github.com/eeeeagle/PL_2.3)
 - [Лабораторная работа №4](https://github.com/eeeeagle/PL_2.4)
-
-### Паралелльное программирование
-
-- [Лабораторная работа №1](https://github.com/eeeeagle/PP_1)
-- [Лабораторная работа №2](https://github.com/eeeeagle/PP_2)
-- [Лабораторная работа №3](https://github.com/eeeeagle/PP_3)
-- [Лабораторная работа №4](https://github.com/eeeeagle/PP_4)
-
-### Системное программирование
-
-#### Семестр 1
-
-- [Лабораторная работа №1](https://github.com/eeeeagle/SP_1)
-- [Лабораторная работа №2](https://github.com/eeeeagle/SP_2)
-- [Лабораторная работа №3](https://github.com/eeeeagle/SP_3)
-- [Лабораторная работа №4](https://github.com/eeeeagle/SP_4)
-
-#### Семестр 2
-
-- [Курсовая работа](https://github.com/eeeeagle/SP_CP)
 
 ---
 
