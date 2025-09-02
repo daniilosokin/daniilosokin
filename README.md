@@ -19,15 +19,6 @@
 
 - [Курсовая работа](https://github.com/daniilosokin/ADS_CP)
 
-### Базы данных
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/DB_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/DB_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/DB_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/DB_4)
-- [Лабораторная работа №5](https://github.com/daniilosokin/DB_5)
-- [Лабораторная работа №6](https://github.com/daniilosokin/DB_6)
-
 ### Вычислительная математика
 
 - [Лабораторная работа №1](https://github.com/daniilosokin/CM_1)
@@ -62,10 +53,6 @@
 - [Лабораторная работа №2](https://github.com/daniilosokin/PP_2)
 - [Лабораторная работа №3](https://github.com/daniilosokin/PP_3)
 - [Лабораторная работа №4](https://github.com/daniilosokin/PP_4)
-
-### Промышленное программирование
-
-- [Лабораторная работа №1-4](https://github.com/daniilosokin/IP)
 
 ### Системное программирование
 
