@@ -13,11 +13,6 @@
 
 - [Лабораторная работа №1](https://github.com/daniilosokin/ADS_2.1)
 - [Лабораторная работа №2](https://github.com/daniilosokin/ADS_2.2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/ADS_2.3)
-
-#### Семестр 3
-
-- [Курсовая работа](https://github.com/daniilosokin/ADS_CP)
 
 ### Вычислительная математика
 
@@ -56,16 +51,10 @@
 
 ### Системное программирование
 
-#### Семестр 1
-
 - [Лабораторная работа №1](https://github.com/daniilosokin/SP_1)
 - [Лабораторная работа №2](https://github.com/daniilosokin/SP_2)
 - [Лабораторная работа №3](https://github.com/daniilosokin/SP_3)
 - [Лабораторная работа №4](https://github.com/daniilosokin/SP_4)
-
-#### Семестр 2
-
-- [Курсовая работа](https://github.com/daniilosokin/SP_CP)
 
 ### Языки программирования
 
@@ -89,8 +78,6 @@
  
 ### Методы программирования
 
-#### Семестр 1
-
 - [Лабораторная работа №1](https://github.com/daniilosokin/PM_1)
 - [Лабораторная работа №2](https://github.com/daniilosokin/PM_2)
 - [Лабораторная работа №3](https://github.com/daniilosokin/PM_3)
@@ -106,13 +93,13 @@
 
 ### Аппаратные средства вычислительной техники
 
-- [Лабораторная работа](https://github.com/daniilosokin/HFCT)
+- [Лабораторная работа](./computer-hardware-components)
 
 ### Базы данных
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/DB)
+- [Лабораторная работа №1](./databases)
 
 ### Разработка корпоративных приложений
 
-- [Лабораторная работа №1-5](https://github.com/daniilosokin/ESD)
+- [Лабораторная работа №1-5](./enterprise-software-development))
 
