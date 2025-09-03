@@ -91,15 +91,9 @@
 
 # Информационная безопасность автоматизированных систем (2025)
 
-### Аппаратные средства вычислительной техники
+[**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
 
-- [Лабораторная работа](../computer-hardware-components)
+[**Базы данных**](https://github.com/daniilosokin/databases)
 
-### Базы данных
-
-- [Лабораторная работа №1](../databases)
-
-### Разработка корпоративных приложений
-
-- [Лабораторная работа №1-5](../enterprise-software-development)
+[**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
 
