@@ -1,99 +1,32 @@
-# Информационная безопасность автоматизированных систем (2020-2023)
+# Архив лабораторных работ (Самарский Университет)
 
-### Алгоритмы и структуры данных
+## 2020-2021 учебный год
 
-#### Семестр 1
+- [**Языки программирования**](https://github.com/daniilosokin/programming-language)
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/ADS_1.1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/ADS_1.2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/ADS_1.3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/ADS_1.4)
+## 2021-2022 учебный год
 
-#### Семестр 2
+- [**Алгоритмы и структуры данных**](https://github.com/daniilosokin/algorithms-data-structures)
+- [**Вычислительная математика**](https://github.com/daniilosokin/computational-mathematics)
+- [**Низкоуровневое программирование**](https://github.com/daniilosokin/low-level-programming)
+- [**Основы информационной безопасности**](https://github.com/daniilosokin/information-security-base)
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/ADS_2.1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/ADS_2.2)
+## 2022-2023 учебный год
 
-### Вычислительная математика
+- [**Операционные системы**](https://github.com/daniilosokin/operating-systems)
+- [**Паралелльное программирование**](https://github.com/daniilosokin/parallel-programming)
+- [**Системное программирование**](https://github.com/daniilosokin/system-programming)
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/CM_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/CM_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/CM_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/CM_4)
-- [Лабораторная работа №5](https://github.com/daniilosokin/CM_5)
+## 2023-2024 учебный год
 
-### Низкоуровневое программирование
+- [**Методы программирования**](https://github.com/daniilosokin/programming-methods)
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/LLP_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/LLP_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/LLP_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/LLP_4)
+## 2025-2026 учебный год
 
-### Операционные системы
+- [**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
+- [**Базы данных**](https://github.com/daniilosokin/databases)
+- [**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/OS_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/OS_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/OS_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/OS_4)
 
-### Основы информационной безопасности
 
-- [Лабораторная работа №1](https://github.com/daniilosokin/FIS_1)
-- [Лабораторная работа №3](https://github.com/daniilosokin/FIS_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/FIS_4)
-
-### Паралелльное программирование
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/PP_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/PP_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/PP_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/PP_4)
-
-### Системное программирование
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/SP_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/SP_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/SP_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/SP_4)
-
-### Языки программирования
-
-#### Семестр 1
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/PL_1.1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/PL_1.2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/PL_1.3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/PL_1.4)
-
-#### Семестр 2
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/PL_2.1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/PL_2.2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/PL_2.3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/PL_2.4)
-
----
-
-# Комьютерная безопасность (2023)
- 
-### Методы программирования
-
-- [Лабораторная работа №1](https://github.com/daniilosokin/PM_1)
-- [Лабораторная работа №2](https://github.com/daniilosokin/PM_2)
-- [Лабораторная работа №3](https://github.com/daniilosokin/PM_3)
-- [Лабораторная работа №4](https://github.com/daniilosokin/PM_4)
-- [Лабораторная работа №5](https://github.com/daniilosokin/PM_5)
-- [Лабораторная работа №6](https://github.com/daniilosokin/PM_6)
-- [Лабораторная работа №7](https://github.com/daniilosokin/PM_7)
-- [Лабораторная работа №9](https://github.com/daniilosokin/PM_9)
-
----
-
-# Информационная безопасность автоматизированных систем (2025)
-
-[**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
-
-[**Базы данных**](https://github.com/daniilosokin/databases)
-
-[**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
 
