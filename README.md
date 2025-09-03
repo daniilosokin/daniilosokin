@@ -93,13 +93,13 @@
 
 ### Аппаратные средства вычислительной техники
 
-- [Лабораторная работа](./computer-hardware-components)
+- [Лабораторная работа](../computer-hardware-components)
 
 ### Базы данных
 
-- [Лабораторная работа №1](./databases)
+- [Лабораторная работа №1](../databases)
 
 ### Разработка корпоративных приложений
 
-- [Лабораторная работа №1-5](./enterprise-software-development))
+- [Лабораторная работа №1-5](../enterprise-software-development)
 
