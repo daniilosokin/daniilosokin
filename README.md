@@ -2,7 +2,7 @@
 
 ### 2020-2021 учебный год
 
-- [**Языки программирования**](https://github.com/daniilosokin/programming-language)
+- [**Языки программирования**](https://github.com/daniilosokin/programming-languages)
 
 ### 2021-2022 учебный год
 
