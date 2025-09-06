@@ -24,7 +24,7 @@
 ### 2025-2026 учебный год
 
 - [**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
-- [**Базы данных**](https://github.com/daniilosokin/databases)
+- [Базы данных](https://github.com/daniilosokin/databases)
 - [**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
 
 
