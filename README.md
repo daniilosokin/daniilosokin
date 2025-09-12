@@ -21,6 +21,8 @@
 
 - [**Методы программирования**](https://github.com/daniilosokin/programming-methods)
 
+## Активные репозитории (Самарский Университет)
+
 ### 2025-2026 учебный год
 
 - [**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
