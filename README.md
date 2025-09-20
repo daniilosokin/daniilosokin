@@ -27,6 +27,7 @@
 
 - [**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
 - [**Базы данных**](https://github.com/daniilosokin/databases)
+- [**Безопасность вычислительных сетей**](https://github.com/daniilosokin/computer-network-security)
 - [**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
 
 
