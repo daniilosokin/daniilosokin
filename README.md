@@ -28,8 +28,8 @@
 - [**Аппаратные средства вычислительной техники**](https://github.com/daniilosokin/computer-hardware-components)
 - [**Базы данных**](https://github.com/daniilosokin/databases)
 - [**Безопасность вычислительных сетей**](https://github.com/daniilosokin/computer-network-security)
+- [**Безопасность операционных систем**](https://github.com/daniilosokin/operating-system-security)
+- [**Методы оптимизации**](https://github.com/daniilosokin/optimization-methods)
+- [**Открытые информационные системы**](https://github.com/daniilosokin/open-information-systems)
 - [**Разработка корпоративных приложений**](https://github.com/daniilosokin/enterprise-software-development)
-
-
-
-
+- [**Теория информации**](https://github.com/daniilosokin/information-theory)
